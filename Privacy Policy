@@ -1,0 +1,89 @@
+# Privacy Policy for RYM — Rate Your Meal
+
+**Effective Date:** November 13, 2026  
+**App Name:** RYM — Rate Your Meal  
+**Package Name:** `com.rym.rym_rate_your_meal`  
+**Contact Email:** rynegamedev@gmail.com  
+
+---
+
+## 1. Overview
+
+RYM — Rate Your Meal ("RYM", "we", "our", or "us") helps you log, rate, and organize meals you try, and optionally share public meal reviews with friends. This Privacy Policy explains what information the app collects, how it is used, and how you can delete your data.
+
+---
+
+## 2. Information We Collect
+
+### A. Account Information
+When you create an account, we collect:
+- **Email address** (used for authentication and password recovery via Firebase Authentication)
+- **Display name and `@handle`** (used to identify your profile and allow friends to find you)
+
+### B. User-Generated Content
+When you use the app, we store the content you choose to create:
+- **Meal logs** (dish name, restaurant name, address, region/city, cuisine, rating, notes, price tier, atmosphere, and optional meal photos)
+- **Wishlist items and curated lists**
+- **Social activity** (friends list, public meal logs, emoji reactions, comments, and meal recommendations)
+
+### C. Location Information (Optional)
+If you grant location permission and keep **Use GPS Location** enabled in Settings, the app accesses your device's approximate or precise location solely to:
+- Center the **Nearby** view and sort nearby restaurants/logs by distance
+- Improve restaurant search results
+
+You can disable GPS location at any time in **Settings** or in your device's system permissions.
+
+---
+
+## 3. How We Use Your Information
+
+We use your information only to provide and operate RYM's core features:
+- Creating and securing your account
+- Syncing your meal logs, wishlist, curated lists, and social interactions across your devices
+- Letting friends search for your `@handle` and view meal logs you mark as **Public**
+- Looking up restaurant names and addresses via OpenStreetMap services
+
+We **do not** sell your personal information, and we **do not** use third-party advertising networks or cross-app ad tracking.
+
+---
+
+## 4. Third-Party Services
+
+RYM uses the following third-party services to operate:
+- **Google Firebase (Authentication & Cloud Firestore):** Stores account credentials, user profiles, meal logs, lists, wishlists, friends, reactions, comments, and recommendations. See [Google's Privacy Policy](https://policies.google.com/privacy).
+- **OpenStreetMap (Nominatim / Overpass API):** Used for restaurant search, autocomplete, and map tiles. See [OpenStreetMap's Privacy Policy](https://osmfoundation.org/wiki/Privacy_Policy).
+
+---
+
+## 5. Data Sharing & Visibility
+
+- **Private meal logs** are only visible to you.
+- **Public meal logs** are visible to signed-in users/friends on RYM, along with your display name and `@handle`.
+- **Wishlist items and curated lists** are stored privately for your account.
+
+---
+
+## 6. Data Retention & Deletion
+
+You can delete your local and stored meal data at any time from inside the app via **Settings → Permanently Delete Data**.
+
+To request complete deletion of your Firebase account and all associated cloud data, email **rynegamedev@gmail.com** from the email address associated with your account with the subject line `"RYM Account Deletion Request"`. We will permanently delete your account and associated records within 30 days.
+
+---
+
+## 7. Children's Privacy
+
+RYM is not intended for children under the age of 13, and we do not knowingly collect personal information from children under 13.
+
+---
+
+## 8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted on this page with an updated effective date.
+
+---
+
+## 9. Contact Us
+
+If you have questions about this Privacy Policy or your data, contact us at:  
+**rynegamedev@gmail.com**
